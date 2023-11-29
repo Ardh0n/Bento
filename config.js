@@ -72,7 +72,7 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'eCanpus',
-			icon: 'trello',
+			icon: 'book-open',
 			link: 'https://ecampus.uni-bonn.de',
 		},
 		{
