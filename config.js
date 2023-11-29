@@ -59,34 +59,35 @@ const CONFIG = {
 		},
 		{
 			id: '2',
+			name: 'Gitlab',
+			icon: 'gitlab',
+			link: 'https://gitlab.cs.uni-bonn.de',
+		},
+		{
+			id: '3',
 			name: 'Mail',
 			icon: 'mail',
 			link: 'https://mail.uni-bonn.de',
 		},
 		{
-			id: '3',
+			id: '4',
 			name: 'eCanpus',
 			icon: 'trello',
 			link: 'https://ecampus.uni-bonn.de',
 		},
 		{
-			id: '4',
+			id: '5',
 			name: 'Calendar',
 			icon: 'calendar',
 			link: 'https://calendar.google.com/calendar/r',
 		},
 		{
-			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
-		},
-		{
 			id: '6',
-			name: 'YouTube',
-			icon: 'youtube',
-			link: 'https://youtube.com/',
+			name: 'Wolfram Alpha',
+			icon: 'sigma',
+			link: 'https://wolframalpha.com/',
 		},
+		
 	],
 
 	secondButtonsContainer: [
@@ -104,9 +105,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'bot',
-			icon: 'bot',
-			link: 'https://discord.com/app',
+			name: 'Twitch',
+			icon: 'twitch',
+			link: 'https://twitch.tv',
 		},
 		{
 			id: '4',
@@ -116,15 +117,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			name: 'Reddit',
+			icon: 'glasses',
+			link: 'https://reddit.com',
 		},
 		{
 			id: '6',
-			name: 'Figma',
-			icon: 'figma',
-			link: 'https://figma.com/',
+			name: 'YouTube',
+			icon: 'youtube',
+			link: 'https://youtube.com/',
 		},
 	],
 
